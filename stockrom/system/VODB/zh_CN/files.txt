@@ -1,0 +1,3 @@
+zh_CN-ak-cur.lite.res	6bdb28f4be307eb637d9f9b7018b5fb8	11218470
+zh_CN.lang	4ea1d52f63ef3914d9d0ac59b3ce788b	4135
+zh_CN-lk-text.lite.res	304781ab2168bf539f0cb3e7d6d87b45	3680296

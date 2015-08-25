@@ -1,0 +1,12 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SM-N9100</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>N9100CHC</CSCName>
+	<CSCVersion>1AOB1</CSCVersion>
+	<NbCustomer>1</NbCustomer>
+	<CustomerData src="/Customer/CHC/customer.xml" />
+	</CustomerDataSet>
+</SW-Configuration>

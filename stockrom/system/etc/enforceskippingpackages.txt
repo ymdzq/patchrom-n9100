@@ -1,0 +1,11 @@
+10
+FBAppManager.apk
+FBInstaller.apk
+FBInstagram_stub.apk
+FBMessenger_stub.apk
+FBPagesManager_stub.apk
+Facebook.apk
+WhatsApp.apk
+secimsfw.apk
+commonimsservice.apk
+VolteSettings.apk

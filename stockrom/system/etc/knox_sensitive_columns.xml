@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<column>
+    <uri>content://com.android.email.provider</uri>
+    <name>textContent</name>
+    <type>sensitive</type>
+</column>
+
+<column>
+    <uri>content://com.android.email.provider</uri>
+    <name>htmlContent</name>
+    <type>sensitive</type>
+</column>
+
+<column>
+    <uri>content://com.sec.enterprise.email.provider</uri>
+    <name>textContent</name>
+    <type>sensitive</type>
+</column>
+
+<column>
+    <uri>content://com.sec.enterprise.email.provider</uri>
+    <name>htmlContent</name>
+    <type>sensitive</type>
+</column>
